@@ -10,7 +10,7 @@
 <body>
 	<nav id="menu">
 		<ul>
-			<li><a href="<c:url value="/commande"/>">Commanderr</a></li>
+			<li><a href="<c:url value="/commande"/>">Commander</a></li>
 			<li><a href="<c:url value="/preparation"/>">Préparer</a></li>
 			<li><a href="<c:url value="/fidelisation"/>">Fidélisation</a></li>
 			<li><a href="<c:url value="/rapport"/>">Rapport journalier</a></li>
